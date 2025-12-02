@@ -1,0 +1,5 @@
+{
+  "name": "StampFlow PDF",
+  "description": "A professional tool for sales teams to easily overlay text codes (e.g., PB Numbers) onto PDF documents. Features manual positioning and AI-powered text extraction.",
+  "requestFramePermissions": []
+}
